@@ -50,3 +50,7 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `media_procedure`()
 SELECT AVG(km) FROM coche$$
 DELIMITER ;
 
+
+
+
+
